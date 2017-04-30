@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="startLine">There will be 7 questions about maths algebra. Good luck!!!</string>
+    <string name="question1">1. 8^m=2 find m value</string>
+    <string name="q11">1/3</string>
+    <string name="q12">3</string>
+    <string name="q13">-3</string>
+    <string name="q14">1/2</string>
+    <string name="question2">2. |m+4|&lt;11</string>
+    <string name="q21">m &lt; 7</string>
+    <string name="q22">-15 &lt; m &lt; 7</string>
+    <string name="q23">-7 &lt; m &lt; 7</string>
+    <string name="q24">-15 &lt; m &lt; 15</string>
+    <string name="question3">3. Evaluate 5x^2  +7xy - 3 for x = -2 and y=0.5</string>
+    <string name="q31">10</string>
+    <string name="q32">-16</string>
+    <string name="q33">-30</string>
+    <string name="q34">3</string>
+    <string name="question4">4. Factor by grouping y^2  + 7y +12 = ?</string>
+    <string name="q41">(y+7)(y+5)</string>
+    <string name="q42">(y+7)(y+12)</string>
+    <string name="q43">(y+3)(y+4)</string>
+    <string name="q44">(y+6)(y+2)</string>
+    <string name="question5">5. Find solution x^2  + 2x = 24</string>
+    <string name="q51">4</string>
+    <string name="q52">2 and 12</string>
+    <string name="q53">4 and -6</string>
+    <string name="q54">4 and -4</string>
+    <string name="question6">6. Find x : (x-3)/2=4x/5 </string>
+    <string name="q61">x = 5</string>
+    <string name="q62">x = 1</string>
+    <string name="q63">x = - 5</string>
+    <string name="q64">x = - 1</string>
+    <string name="question7">7. V = bdt. Solve the formula for d. </string>
+    <string name="q71">d = b/tv</string>
+    <string name="q72">d = t/bv</string>
+    <string name="q73">d = vbt</string>
+    <string name="q74">d = v/bt</string>
+    <string name="question8">8. Find x : (x-3)/2=4x/5 </string>
+    <string name="q81">x = 5</string>
+    <string name="q82">x = 1</string>
+    <string name="q83">x = - 5</string>
+    <string name="q84">x = - 1</string>
+    <string name="question9">9. Find x : (x-3)/2=4x/5 </string>
+    <string name="q91">x = 5</string>
+    <string name="q92">x = 1</string>
+    <string name="q93">x = - 5</string>
+    <string name="q94">x = - 1</string>
+    <string name="question10">10. Find x : (x-3)/2=4x/5 </string>
+    <string name="q101">x = 5</string>
+    <string name="q102">x = 1</string>
+    <string name="q103">x = - 5</string>
+    <string name="q104">x = - 1</string>
+    <string name="submit">submit</string>
+    <string name="Check">Check Answers</string>
+    <string name="reset">Reset</string>
+    <string name="edittext">Insert your name</string>
+
+</resources>

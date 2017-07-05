@@ -292,45 +292,56 @@
                     android:text="@string/q64" />
             </RadioGroup>
 
+
             <TextView
                 style="@style/questions"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/question7" />
 
-            <RadioGroup
-                android:id="@+id/group7"
+            <EditText
+                android:id="@+id/q7a"
                 style="@style/radioGroup"
-                >
+                android:hint="@string/answerEdit"
+                />
 
-                <RadioButton
-                    android:id="@+id/q7a1"
-                    style="@style/buttons"
+            <TextView
+                style="@style/questions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/question8" />
+
+            <LinearLayout
+                style="@style/radioGroup"
+                android:orientation="vertical">
+                <CheckBox
+                    android:id="@+id/q8a1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/q71" />
-
-                <RadioButton
-                    android:id="@+id/q7a2"
-                    style="@style/buttons"
+                    android:text="@string/q81"
+                    style="@style/buttons"/>
+                <CheckBox
+                    android:id="@+id/q8a2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/q72" />
-
-                <RadioButton
-                    android:id="@+id/q7a3"
-                    style="@style/buttons"
+                    android:text="@string/q82"
+                    style="@style/buttons"/>
+                <CheckBox
+                    android:id="@+id/q8a3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/q73" />
-
-                <RadioButton
-                    android:id="@+id/q7a4"
-                    style="@style/buttons"
+                    android:text="@string/q83"
+                    style="@style/buttons"/>
+                <CheckBox
+                    android:id="@+id/q8a4"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/q74" />
-            </RadioGroup>
+                    android:text="@string/q84"
+                    style="@style/buttons"/>
+
+
+
+            </LinearLayout>
 
             <RelativeLayout
                 android:layout_width="match_parent"

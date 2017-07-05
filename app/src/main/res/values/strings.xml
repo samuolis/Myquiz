@@ -31,21 +31,18 @@
     <string name="q62">x = 1</string>
     <string name="q63">x = - 5</string>
     <string name="q64">x = - 1</string>
-    <string name="question7">7. V = bdt. Solve the formula for d. </string>
-    <string name="q71">d = b/tv</string>
-    <string name="q72">d = t/bv</string>
-    <string name="q73">d = vbt</string>
-    <string name="q74">d = v/bt</string>
-    <string name="question8">8. Find x : (x-3)/2=4x/5 </string>
-    <string name="q81">x = 5</string>
-    <string name="q82">x = 1</string>
-    <string name="q83">x = - 5</string>
-    <string name="q84">x = - 1</string>
+    <string name="question8">8. V = bdt. Which ones will not solve the formula for d? </string>
+    <string name="q81">d = b/tv</string>
+    <string name="q82">d = t/bv</string>
+    <string name="q83">d = vbt</string>
+    <string name="q84">d = v/bt</string>
+    <string name="question7">7. What is surname of matematician who recorded a^2+b^2=c^2 equation proof (equation is named by this matematician surname). </string>
+    <string name="answerEdit">Write matematician Surname</string>
     <string name="question9">9. Find x : (x-3)/2=4x/5 </string>
-    <string name="q91">x = 5</string>
-    <string name="q92">x = 1</string>
-    <string name="q93">x = - 5</string>
-    <string name="q94">x = - 1</string>
+    <string name="q71">x = 5</string>
+    <string name="q72">x = 1</string>
+    <string name="q73">x = - 5</string>
+    <string name="q74">x = - 1</string>
     <string name="question10">10. Find x : (x-3)/2=4x/5 </string>
     <string name="q101">x = 5</string>
     <string name="q102">x = 1</string>
@@ -55,5 +52,6 @@
     <string name="Check">Check Answers</string>
     <string name="reset">Reset</string>
     <string name="edittext">Insert your name</string>
+    <string name="answer7">Pythagorean or pythagorean</string>
 
 </resources>
